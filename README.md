@@ -1,10 +1,11 @@
-<p style="width: 50%; margin: 0; padding: 0;">
+<p style="width: 40%; display: flex; justify-content: center; align-items: center; margin: 0; padding: 0;">
   <a href="https://www.facebook.com/hunghk43?locale=vi_VN">
     <img src="https://i.gifer.com/origin/f2/f2decdef72706578a92f98dda1276cd8_w200.webp" 
          alt="MasterHead" 
-         style="width: 50%; height: 30%; display: block;">
+         style="width: 40%; height: auto; display: block;">
   </a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Hunghk43er</h1>
 <h3 align="center">A passionate Front-End Developer from Da Nang City</h3>
