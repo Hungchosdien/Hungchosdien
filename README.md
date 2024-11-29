@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxNXQ5Ynh5d200b2d4b2FoNWc2MG16cDRvZ3VqNHQ5enBtYmVlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.webp">
 
 🔭 I’m currently working on **Web App**  
-🌱 I’m currently learning **DevOps**  
+🌱 I’m currently learning **Dev**  
 💬 Ask me about **Front-End**  
 📫 How to reach me **Hoangkimhung2004@gmail.com**  
 ⚡ Fun fact **Me Keeppppp!!!!!!!!!**
